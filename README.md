@@ -21,8 +21,8 @@ Just clone/download the git repository **or** use the prebuild packages (only th
 ## Download Prebuild Packages (Pages only) ##
 
 **Direct Download**
-* [Download TAR Archive](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.tar)
-* [Download ZIP Archive](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.zip)
+* [Download TAR Archive](https://raw.githubusercontent.com/danny50610/HttpErrorPages/master/dist/pages.tar)
+* [Download ZIP Archive](https://raw.githubusercontent.com/danny50610/HttpErrorPages/master/dist/pages.zip)
 
 **Shell/Bash**
 ```shell
