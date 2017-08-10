@@ -7,7 +7,9 @@
     <target name="css">
         <!-- Less CSS build (WEB CSS) !-->
         <echo message="Building LESS Files.." />
-        <exec executable="lessc">
+
+        <!-- for linux, please use <exec executable="lessc"> !-->
+        <exec executable="lessc.cmd">
             <arg line="assets/Layout.less" />
             <arg line="assets/Layout.css" />
             <arg line="--clean-css" />
