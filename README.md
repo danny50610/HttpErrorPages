@@ -1,19 +1,19 @@
-# Simple HttpErrorPages #
+# Simple HttpErrorPages (For Traditional Chinese) #
 Simple HTTP Error Page Generator. Create a bunch of custom error pages - suitable to use with Lighttpd, Nginx, Apache-Httpd or any other Webserver.
 
 ![Screenshot](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/assets/screenshot1.png)
 
 ## Demo ##
-* [HTTP400](https://andidittrich.github.io/HttpErrorPages/HTTP400.html)
-* [HTTP401](https://andidittrich.github.io/HttpErrorPages/HTTP401.html)
-* [HTTP403](https://andidittrich.github.io/HttpErrorPages/HTTP403.html)
-* [HTTP404](https://andidittrich.github.io/HttpErrorPages/HTTP404.html)
-* [HTTP500](https://andidittrich.github.io/HttpErrorPages/HTTP500.html)
-* [HTTP501](https://andidittrich.github.io/HttpErrorPages/HTTP501.html)
-* [HTTP502](https://andidittrich.github.io/HttpErrorPages/HTTP502.html)
-* [HTTP503](https://andidittrich.github.io/HttpErrorPages/HTTP503.html)
-* [HTTP520](https://andidittrich.github.io/HttpErrorPages/HTTP520.html)
-* [HTTP521](https://andidittrich.github.io/HttpErrorPages/HTTP521.html)
+* [HTTP400](https://danny50610.github.io/HttpErrorPages/HTTP400.html)
+* [HTTP401](https://danny50610.github.io/HttpErrorPages/HTTP401.html)
+* [HTTP403](https://danny50610.github.io/HttpErrorPages/HTTP403.html)
+* [HTTP404](https://danny50610.github.io/HttpErrorPages/HTTP404.html)
+* [HTTP500](https://danny50610.github.io/HttpErrorPages/HTTP500.html)
+* [HTTP501](https://danny50610.github.io/HttpErrorPages/HTTP501.html)
+* [HTTP502](https://danny50610.github.io/HttpErrorPages/HTTP502.html)
+* [HTTP503](https://danny50610.github.io/HttpErrorPages/HTTP503.html)
+* [HTTP520](https://danny50610.github.io/HttpErrorPages/HTTP520.html)
+* [HTTP521](https://danny50610.github.io/HttpErrorPages/HTTP521.html)
 
 ## Download ##
 Just clone/download the git repository **or** use the prebuild packages (only the generated html files are included)
@@ -27,10 +27,10 @@ Just clone/download the git repository **or** use the prebuild packages (only th
 **Shell/Bash**
 ```shell
 # TAR Archive
-wget https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.tar
+wget https://raw.githubusercontent.com/danny50610/HttpErrorPages/master/dist/pages.tar
 
 # ZIP Archive
-wget https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.zip
+wget https://raw.githubusercontent.com/danny50610/HttpErrorPages/master/dist/pages.zip
 ```
 
 ## NGINX Integration ##
