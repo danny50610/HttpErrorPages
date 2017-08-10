@@ -6,46 +6,46 @@ return array (
 
         '400' => array (
                 'title' => 'Bad Request',
-                'message' => 'The server cannot process the request due to something that is perceived to be a client error.' 
+                'message' => '無法處理您的請求'
         ),
         '401' => array (
                 'title' => 'Unauthorized',
-                'message' => 'The requested resource requires an authentication.'
+                'message' => '您要求的頁面需要身份驗證'
         ),
 
         '403' => array (
                 'title' => 'Access Denied',
-                'message' => 'The requested resource requires an authentication.' 
+                'message' => '您的權限不足，無法存取此頁面'
         ),
         
         // http 404 not found
         '404' => array (
                 'title' => 'Resource not found',
-                'message' => 'The requested resource could not be found but may be available again in the future.' 
+                'message' => '找不到您要求的頁面'
         ),
         
         // internal server error
         '500' => array (
                 'title' => 'Webservice currently unavailable',
-                'message' => "An unexpected condition was encountered.\nOur service team has been dispatched to bring it back online." 
+                'message' => "發生未知的錯誤，請稍後再嘗試"
         ),
         
         // unknown http method
         '501' => array (
                 'title' => 'Not Implemented',
-                'message' => 'The Webserver cannot recognize the request method.'
+                'message' => '發生未知的錯誤，請稍後再嘗試'
         ),
         
         // http proxy forward error
         '502' => array (
                 'title' => 'Webservice currently unavailable',
-                'message' => "We've got some trouble with our backend upstream cluster.\nOur service team has been dispatched to bring it back online."
+                'message' => "發生未知的錯誤，請稍後再嘗試"
         ),
         
         // webserver service error
         '503' => array (
                 'title' => 'Webservice currently unavailable',
-                'message' => "We've got some trouble with our backend upstream cluster.\nOur service team has been dispatched to bring it back online."
+                'message' => "服務維修中，馬上回來"
         ),
         
         // CUSTOM ERROR CODES
